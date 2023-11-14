@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24794242811",
+    "project_id": "watchdogiota",
+    "storage_bucket": "watchdogiota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24794242811:android:6e099b279cccecca8e5a5e",
+        "android_client_info": {
+          "package_name": "com.watchdogiota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24794242811-aodrkt8c7jrgia70n3trodsnolj2s8oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0zI0UhoM8W244kmfiXMyeWU15uemKPDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24794242811-aodrkt8c7jrgia70n3trodsnolj2s8oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
